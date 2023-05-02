@@ -70,3 +70,8 @@ In order to start the app in production, all we need to do is run the build comm
 
 The startup script looks like this.
 "start": "npm run build && node build/index.js"
+
+
+Server: menlahapp
+Database : postgre
+password: securep@wd
